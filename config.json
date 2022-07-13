@@ -1,0 +1,8 @@
+{
+       "PORT_NAME": "COM5",
+       "BAUDRATE" : 250000,
+       "TIME_INTERVAL" : 5.0E-3,
+       "FILTER_LEN": 25,
+       "MAXLEN" : 500,
+       "PPR" : 2000
+}
